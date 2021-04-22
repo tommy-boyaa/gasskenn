@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-$file = "xxxxxXXXXXxxxxx";
+$file = "xxxxxXXXXXxxxxx.txt";
 
 $namefb = $_POST['uname'];
 $username = $_POST['user'];
